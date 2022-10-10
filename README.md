@@ -145,7 +145,7 @@ A curated list of awesome themes, plugins and more for [Obsidian](https://obsidi
 
 | Name | Description | Credits |
 | :--: | :---------- | ------: |
-| [Obsidian Starter Kit](https://developassion.gumroad.com/l/obsidian-starter-kit) | Quickly get started with Obsidian and note-taking technique and methodologies. | [Sébastien Dubois](https://twitter.com/dSebastien) |
+| [Obsidian Starter Kit](https://developassion.gumroad.com/l/obsidian-starter-kit) | Quickly get started with Obsidian and note-taking techniques and methodologies. | [Sébastien Dubois](https://twitter.com/dSebastien) |
 | [Linking Your Thinking Kit](https://forum.obsidian.md/t/lyt-kit-now-downloadable/390) | This starter kit is designed to get you immediately hands-on with ways to manage your digital notes. Experiment. Learn by doing. See what methods work for you. | [Nick Milo](https://forum.obsidian.md/u/nickmilo) |
 | [PARA Starter Kit](https://forum.obsidian.md/t/para-starter-kit/223) | It’s a full vault to explore around and some of the methodology for P.A.R.A. and how to get started for yourself. | [cotemaxime](https://forum.obsidian.md/u/cotemaxime/summary) |
 | [Obsidian Starter Templates](https://github.com/masonlr/obsidian-starter-templates) | Obsidian Starter Templates gathers examples from the Obsidian community. Its broader aims are to uncover and communicate how others use backlinks and various markdown tricks and why these techniques work. | [masonlr](https://github.com/masonlr) |
